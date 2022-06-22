@@ -34,5 +34,5 @@ export const projects = [
   ];
 
   export const skills = [
-    "JavaScript", "React.js", "HTML", "CSS", "TailwindCSS", "Node.js", "Knex.js", "PostgreSQL", "Express.js" 
+    "JavaScript", "Node.js", "React.js", "HTML", "CSS", "C#", "C++", "PostgreSQL", "Knex.js", "Bootstrap", "TailwindCSS"
   ]
